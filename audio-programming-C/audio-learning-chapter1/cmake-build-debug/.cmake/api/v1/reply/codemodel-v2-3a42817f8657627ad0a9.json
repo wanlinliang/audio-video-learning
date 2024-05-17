@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "audio_learning",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "audio_learning::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-audio_learning-Debug-7a5807945244ca265449.json",
+					"name" : "audio_learning",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "audio_learning_binary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-audio_learning_binary-Debug-cd977108d000a0374a56.json",
+					"name" : "audio_learning_binary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "audio_learning_decay::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-audio_learning_decay-Debug-fe82f9b253182ff85e28.json",
+					"name" : "audio_learning_decay",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/liangwanlin/Desktop/audio-video-learning/audio-learning/cmake-build-debug",
+		"source" : "/Users/liangwanlin/Desktop/audio-video-learning/audio-learning"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

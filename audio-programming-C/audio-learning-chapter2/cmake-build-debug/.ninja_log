@@ -1,0 +1,10 @@
+# ninja log v5
+1	32	1715853659629103190	CMakeFiles/audio_learning_chapter2.dir/check.cpp.o	dac8cf15cac88593
+35	61	1715853644712588551	check	a4d95bda3fe687ac
+0	35	1715853644686733979	CMakeFiles/check.dir/check.cpp.o	270711afe8894b09
+0	162	1715852334376844579	CMakeFiles/audio_learning_chapter2.dir/ieee80.c.o	3f9e1a906d9d0e4c
+80	106	1715853177100567522	audio_learning_chapter2	271829f342748a4b
+2	80	1715853177074524196	CMakeFiles/audio_learning_chapter2.dir/portsf.c.o	46d823d00bf148f7
+1	163	1715852334376844120	CMakeFiles/audio_learning_chapter2.dir/sf2float.cpp.o	b601729a7d66e46c
+0	51	1715853680936504364	build.ninja	31c4b29ffd2922c0
+3	33	1715853680973074119	audio_learning_chapter2	271829f342748a4b

@@ -1,0 +1,4 @@
+/Users/liangwanlin/Desktop/audio-video-learning/audio-programming-C/audio-learning-chapter2/cmake-build-debug/CMakeFiles/audio_learning_chapter2.dir
+/Users/liangwanlin/Desktop/audio-video-learning/audio-programming-C/audio-learning-chapter2/cmake-build-debug/CMakeFiles/check.dir
+/Users/liangwanlin/Desktop/audio-video-learning/audio-programming-C/audio-learning-chapter2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liangwanlin/Desktop/audio-video-learning/audio-programming-C/audio-learning-chapter2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

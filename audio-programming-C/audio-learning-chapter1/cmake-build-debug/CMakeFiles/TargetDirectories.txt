@@ -1,0 +1,5 @@
+/Users/liangwanlin/Desktop/audio-video-learning/audio-learning/cmake-build-debug/CMakeFiles/audio_learning.dir
+/Users/liangwanlin/Desktop/audio-video-learning/audio-learning/cmake-build-debug/CMakeFiles/audio_learning_decay.dir
+/Users/liangwanlin/Desktop/audio-video-learning/audio-learning/cmake-build-debug/CMakeFiles/audio_learning_binary.dir
+/Users/liangwanlin/Desktop/audio-video-learning/audio-learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liangwanlin/Desktop/audio-video-learning/audio-learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
